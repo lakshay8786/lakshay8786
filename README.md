@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshay</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" style="border:blue; border-width:20px; border-radius:50px 50px; border-style:inset;"} src="https://media2.giphy.com/media/3o6vXTpomeZEyxufGU/giphy.gif">
+<img align="right" width="400" style="border:blue; border-width:20px; border-radius:50px 50px; border-style:inset;"} src="https://www.gifcen.com/wp-content/uploads/2022/04/gojo-gif-7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshay8786&label=Profile%20views&color=0e75b6&style=flat" alt="lakshay8786" /> </p>
 
